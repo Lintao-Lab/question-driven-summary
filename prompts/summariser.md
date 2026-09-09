@@ -24,9 +24,13 @@ GUIDANCE-ONLY reasoning structure (deviate where the text warrants it):
 
 ## Rules for the summary
 
-- Explain the reasoning on this segment: the rule, standard or claim articulated, its
-  application to the facts or its development in the argument, key distinctions, and
-  the authorities or sources relied on.
+- Reconstruct the segment's reasoning as a chain of its load-bearing nodes: the rule,
+  standard or claim articulated; the move that applies it to the facts or develops the
+  argument; the distinctions that do real work; and the authorities or sources each
+  node rests on. Preserve the nodes, not the detail — compress exposition, background
+  and recited framework. The anchor quotes and location pins carry the retrieval duty,
+  so the body needs only enough text to make each node and its place in the chain
+  clear.
 - Include 1–3 short verbatim anchor quotes (max 40 words each) with paragraph/page
   anchors. Quotes must be strictly word-for-word from the document: never adapt,
   splice, merge or modernise the wording; if you condense, use an ellipsis and keep
@@ -37,7 +41,7 @@ GUIDANCE-ONLY reasoning structure (deviate where the text warrants it):
   positions the author reports or criticises).
 - If the segment is not in fact discussed in the document, write exactly that instead
   of summarising.
-- Do not add evaluation that is not in the document. Be detailed and precise.
+- Do not add evaluation that is not in the document. Be precise, not exhaustive.
 - Body text only: no title, no markdown heading of your own, no preamble, no
   "In this segment...". Headings and scaffolding are added mechanically at assembly.
 
