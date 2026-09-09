@@ -1,6 +1,6 @@
 ---
 name: question-driven-summary
-description: Produce a question-driven summary of an academic or professional document (case, journal article, chapter, report, thesis) organised around the user's current research question — not a generic abstract. Use when the user asks for a research-focused / question-driven summary of a document, or wants a document digested "for the research" rather than in full. Runs entirely on subagents with independent contexts; no scripts, no API keys.
+description: Produce a question-driven summary of an academic or professional document (case, journal article, chapter, report, thesis) organised around the user's current research question — not a generic abstract. Use when the user asks for a research-focused / question-driven summary of a document, or wants a document digested "for the research" rather than in full. Each segment is summarised by a subagent with an independent context (no cross-contamination), every verbatim quote is verified deterministically against the source (anti-hallucination by construction, not by trust), and every segment keeps precise page/paragraph anchors so readers can locate the original passage fast. No scripts, no API keys.
 ---
 
 # Question-Driven Summary
