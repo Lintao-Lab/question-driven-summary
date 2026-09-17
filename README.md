@@ -1,5 +1,7 @@
 # Question-Driven Summary
 
+[![GitHub release](https://img.shields.io/github/v/release/Lintao-Lab/question-driven-summary)](https://github.com/Lintao-Lab/question-driven-summary/releases)
+
 An agent skill that turns one source document into a structured summary organised
 around **your current research question**, not a generic abstract.
 
