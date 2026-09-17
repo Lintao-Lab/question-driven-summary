@@ -15,7 +15,8 @@ and a research question, the skill produces a Markdown summary with:
   question*;
 - a document-architecture note showing where the relevant discussion sits in the whole;
 - one section per segment — legal issues titled as "Whether …" questions for cases,
-  semantic/functional sections for articles — each with precise location anchors,
+  one distinct part of the answer to your question for articles — each with precise
+  location anchors,
   the author's reasoning structure, and 1–3 verified verbatim anchor quotes;
 - an automated QC footer confirming every quote against the source.
 

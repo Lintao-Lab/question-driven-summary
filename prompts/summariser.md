@@ -22,26 +22,42 @@ LOCATION HINT: `<location from segments.json>`
 GUIDANCE-ONLY reasoning structure (deviate where the text warrants it):
 <reasoning_structure bullets from segments.json>
 
-## Rules for the summary
+## Task
 
-- Reconstruct the segment's reasoning as a chain of its load-bearing nodes: the rule,
-  standard or claim articulated; the move that applies it to the facts or develops the
-  argument; the distinctions that do real work; and the authorities or sources each
-  node rests on. Preserve the nodes, not the detail — compress exposition, background
-  and recited framework. The anchor quotes and location pins carry the retrieval duty,
-  so the body needs only enough text to make each node and its place in the chain
-  clear.
+Summarise your assigned segment. The whole document is your context: use it to resolve
+cross-references and to understand what the segment sets up and what follows from it,
+and report the segment itself. The reasoning-structure sketch orients you; the document
+itself leads. If the assigned segment receives no actual discussion in the document,
+state exactly that as your entire response.
+
+## Principles
+
+- **Lens.** The summary is a projection of the document through the research focus.
+  Relevance to the focus is the first criterion for what you keep and what you drop.
+- **Fidelity.** Convey the source's reasoning as the source presents it. Keep
+  attribution and weight distinguishable — the author's own position versus views
+  reported or criticised; in a decision, the majority versus separate or dissenting
+  opinions.
+- **Self-standing argument.** A reader who never opens the source can follow how the
+  segment gets from its question to its conclusion. Completeness means the argument
+  stands on its own in your summary.
+- **Economy.** Every sentence serves this purpose. What the purpose requires is the
+  measure of what stays.
+- **Traceability.** The reader returns to the source through your anchors to verify and
+  to go deeper. The summary is a map to the source; anchors are its coordinates.
+
+The Economy ↔ Self-standing tension is deliberate. Principles and specifications only:
+no sentence quotas, no deletion defaults, no self-check rituals.
+
+## Specifications
+
 - Include 1–3 short verbatim anchor quotes (max 40 words each) with paragraph/page
-  anchors. Quotes must be strictly word-for-word from the document: never adapt,
-  splice, merge or modernise the wording; if you condense, use an ellipsis and keep
-  every retained word exact. Editorial brackets (`[t]he`) are allowed for case/number
-  changes.
-- Note the voice and argumentative weight where relevant (majority / separate /
-  dissenting / sole decision-maker; for articles: the author's own position vs
-  positions the author reports or criticises).
-- If the segment is not in fact discussed in the document, write exactly that instead
-  of summarising.
-- Do not add evaluation that is not in the document. Be precise, not exhaustive.
+  anchors. Each quote is one continuous passage of the document, word-for-word; never
+  adapt, splice, merge or modernise the wording; if you condense, use an ellipsis and
+  keep every retained word exact. Editorial brackets (`[t]he`) are allowed for
+  case/number changes.
+- Footnotes and endnotes are scholarly apparatus and stay outside the summary. Name an
+  authority where it carries real argumentative weight.
 - Body text only: no title, no markdown heading of your own, no preamble, no
   "In this segment...". Headings and scaffolding are added mechanically at assembly.
 
